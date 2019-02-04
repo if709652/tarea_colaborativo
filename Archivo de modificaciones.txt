@@ -1,3 +1,10 @@
-"Este archivo ser· utilizado para emular modificaciones en el proyecto colaborativo.
+"Este archivo ser√° utilizado para emular modificaciones en el proyecto colaborativo.
 
+odette mendoza diaz
 Ana Paola Villegas Rivas."
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/if709652/tarea_colaborativo
+
+https://github.com/apaolavr/tarea_colaborativo"
